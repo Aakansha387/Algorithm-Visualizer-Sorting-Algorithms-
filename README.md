@@ -54,10 +54,7 @@ You can deploy this project easily using **GitHub Pages**:
 
 ---
 
-## 📸 Screenshots
-(Add screenshots of your project here for better presentation)  
-
-Example placeholders:  
+## 📸 Screenshots  
 - Before Sorting
   <img width="1357" height="637" alt="Screenshot 2025-09-19 114729" src="https://github.com/user-attachments/assets/37ac5ee6-ac6b-4191-aec8-f9b89198fe59" />
 
@@ -86,5 +83,3 @@ Sorting algorithms are widely used in:
 - UI/UX Enhancement  
 
 ---
-
-✨ This project is a great way to showcase **DSA + frontend development skills** in interviews and on GitHub.  
